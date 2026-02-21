@@ -5,7 +5,7 @@ function App() {
 
   return (
     <> 
-      <div>hello space</div>
+      <div className='text-amber-500'>hello space</div>
     </>
   )
 }
